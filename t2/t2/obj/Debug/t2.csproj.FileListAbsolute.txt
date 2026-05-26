@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\t2\t2\bin\Debug\t2.exe.config
+C:\Users\UPN\Desktop\t2\t2\bin\Debug\t2.exe
+C:\Users\UPN\Desktop\t2\t2\bin\Debug\t2.pdb
+C:\Users\UPN\Desktop\t2\t2\obj\Debug\t2.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\t2\t2\obj\Debug\t2.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\t2\t2\obj\Debug\t2.exe
+C:\Users\UPN\Desktop\t2\t2\obj\Debug\t2.pdb
